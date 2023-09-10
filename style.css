@@ -19,6 +19,8 @@ header {
 }
 
 header h1 {
+    z-index: 10;
+    position: relative;
     font-size: 36px;
 }
 
