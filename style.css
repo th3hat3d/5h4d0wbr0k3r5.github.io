@@ -6,7 +6,7 @@ body, h1, h2, p, blockquote {
 
 /* Set a background color and font for the whole page */
 body {
-    font-family: 'Rubik Iso', Arial, sans-serif; /* Use Rubik Iso for the entire site */
+    font-family: "Cascadia", sans-serif;  /* Use Rubik Iso for the entire site */
     background-color: #0f0f0f;
     color: #00ff00;
 }
@@ -50,7 +50,7 @@ nav a {
     border: 2px solid #00ff00;
     color: #00ff00;
     font-size: 38px; /* Increase font size */
-    font-family: 'Rubik Iso', Arial, sans-serif;
+    font-family: "Cascadia", sans-serif;
 }
 
 /* Style the blockquote */
